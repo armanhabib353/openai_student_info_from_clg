@@ -3,7 +3,7 @@
 
 ![](screenshot/2.jpg)
 
-Build a system that can take input question related to a database of an imaginary college called AtliQ Commerce College. Here are some sample questions you can ask to this Q&A system.
+Build a system that can take input question related to a database of College. Here are some sample questions you can ask to this Q&A system.
 
 
 ### Sample questions
